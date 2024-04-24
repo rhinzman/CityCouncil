@@ -1,0 +1,19 @@
+{
+  "name": "citycouncil",
+  "version": "1.0.0",
+  "description": "City Council App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhinzman/CityCouncil.git"
+  },
+  "author": "Rawan Hinzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhinzman/CityCouncil/issues"
+  },
+  "homepage": "https://github.com/rhinzman/CityCouncil#readme"
+}
